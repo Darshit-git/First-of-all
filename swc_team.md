@@ -279,5 +279,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
 
-
+* [Darshit Nagar](https://github.com/Darshit-git)
+   - *Frameworks* : HTML, CSS, Javascript, NodeJS
+   - *email* : darshit18@iitg.ac.in
    
